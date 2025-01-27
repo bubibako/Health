@@ -21,5 +21,7 @@
 			</array>
 		</dict>
 	</dict>
+    <key>NSMotionUsageDescription</key>
+    <string>Приложение использует шагомер для подсчета шагов и расчета калорий</string>
 </dict>
 </plist>
